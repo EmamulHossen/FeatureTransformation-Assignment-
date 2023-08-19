@@ -14,7 +14,7 @@ Linear regression uses the relationship between the data-points to draw a straig
 4.**Slope**<br/>
 5.**Intercept**
 # Screenshots
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBKpW_7uuNlaTa0uGuT0Qm-AvQbvqkHMGFg&usqp=CAU"> <img src="https://miro.medium.com/v2/resize:fit:2000/1*d6yc2hc9i2PJvR-cb-ypnQ.png"> <img src="#"> <img src="#"> <img src="#">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBKpW_7uuNlaTa0uGuT0Qm-AvQbvqkHMGFg&usqp=CAU"> <img src="https:[//miro.medium.com/v2/resize:fit:2000/1*d6yc2hc9i2PJvR-cb-ypnQ.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsUutqZWx2i5ugS4nHnc0KKMiRwokT8EKtg&usqp=CAU)"> <img src="#"> <img src="#"> <img src="#">
 # Tech Used
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
       
