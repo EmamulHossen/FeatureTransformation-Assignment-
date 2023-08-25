@@ -12,12 +12,11 @@
 **Logarithm Transformation**<br/>
 **Robust Scaler**<br/>
 **Min Absolute Scaler**
-# Screenshots
  <img src="[#](https://static.javatpoint.com/tutorial/data-mining/images/feature-transformation-in-data-mining.png)"> <img src="#"> <img src="#"> <img src="#"> <img src="#">
 # Tech Used
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
       
 
 ### Follow me
-[Links]([https://itsvg.in](https://www.facebook.com/emamul.hossen.503)https://www.facebook.com/emamul.hossen.503)
+[Links](https://www.facebook.com/emamul.hossen.503)
  
